@@ -1,4 +1,4 @@
-package com.example.mybatisplusonetomanysecond.domain;
+package com.example.mybatisplusonetomanysecond.entity;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;

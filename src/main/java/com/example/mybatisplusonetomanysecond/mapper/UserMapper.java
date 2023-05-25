@@ -2,9 +2,9 @@ package com.example.mybatisplusonetomanysecond.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
-import com.example.mybatisplusonetomanysecond.domain.DeptManyEmployee;
-import com.example.mybatisplusonetomanysecond.domain.ProductNumber;
-import com.example.mybatisplusonetomanysecond.domain.User;
+import com.example.mybatisplusonetomanysecond.entity.DeptManyEmployee;
+import com.example.mybatisplusonetomanysecond.entity.ProductNumber;
+import com.example.mybatisplusonetomanysecond.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
