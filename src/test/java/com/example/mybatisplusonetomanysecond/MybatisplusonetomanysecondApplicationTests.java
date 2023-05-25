@@ -2,11 +2,8 @@ package com.example.mybatisplusonetomanysecond;
 
 import com.example.mybatisplusonetomanysecond.domain.DeptManyEmployee;
 import com.example.mybatisplusonetomanysecond.domain.ProductNumber;
-import com.example.mybatisplusonetomanysecond.domain.User;
-import com.example.mybatisplusonetomanysecond.mapper.CustomMapper;
 import com.example.mybatisplusonetomanysecond.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
