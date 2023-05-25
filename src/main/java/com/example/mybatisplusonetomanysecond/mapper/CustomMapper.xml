@@ -21,7 +21,7 @@
         <result property="loc" column="loc"></result>
         <collection property="employees" column="id" ofType="com.example.mybatisplusonetomanysecond.entity.DeptManyEmployee" resultMap="employeeResultMap"/>
     </resultMap>
-    <select id="selectdeptmanyemployee" resultMap="deptmanyemployee">
+    <select id="selectdeptmanyemplffyee" resultMap="deptmanyemployee">
         SELECT * FROM dept d LEFT JOIN employee e on d.depno=e.deptno
     </select>
 </mapper>

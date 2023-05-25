@@ -7,6 +7,6 @@ import java.util.List;
 
 public interface CustomMapper {
 
-    List<DeptManyEmployee> selectdeptmanyemployee();
+    List<DeptManyEmployee> selectdeptmanyemplffyee();
 
 }
