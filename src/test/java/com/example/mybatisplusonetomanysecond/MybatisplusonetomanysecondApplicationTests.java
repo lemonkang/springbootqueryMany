@@ -19,8 +19,8 @@ class MybatisplusonetomanysecondApplicationTests {
 //    查询所有部门对应的员工
     @Test
     void selectdeptmanyemployee(){
-        List<DeptManyEmployee> selectdeptmanyemployee = userMapper.selectdeptmanyemployee();
-        selectdeptmanyemployee.forEach(System.out::println);
+        List<DeptManyEmployee> selectdepasdsadmployee = userMapper.selectdeptmanyemployee();
+
     }
 //    查询所有商品对应的数量
     @Test
