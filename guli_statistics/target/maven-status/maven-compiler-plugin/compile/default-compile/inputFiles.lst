@@ -1,0 +1,11 @@
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/StaApplication.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/client/UcenterClient.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/config/Swagger2Config.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/controller/StatisticsDailyController.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/entity/StatisticsDaily.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/handler/MyMetaObjectHandler.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/mapper/StatisticsDailyMapper.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/schedule/ScheduledTask.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/service/StatisticsDailyService.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/service/impl/StatisticsDailyServiceImpl.java
+/Users/Admin/guli/GuliEdu-main/guli_statistics/src/main/java/com/oy/guli/staservice/utils/DateUtil.java

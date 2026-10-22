@@ -1,0 +1,5 @@
+/Users/Admin/guli/GuliEdu-main/infrastructure/api_gateway/src/main/java/com/oy/gateway/ApiGatewayApplication.java
+/Users/Admin/guli/GuliEdu-main/infrastructure/api_gateway/src/main/java/com/oy/gateway/config/CorsConfig.java
+/Users/Admin/guli/GuliEdu-main/infrastructure/api_gateway/src/main/java/com/oy/gateway/filter/AuthGlobalFilter.java
+/Users/Admin/guli/GuliEdu-main/infrastructure/api_gateway/src/main/java/com/oy/gateway/handler/ErrorHandlerConfig.java
+/Users/Admin/guli/GuliEdu-main/infrastructure/api_gateway/src/main/java/com/oy/gateway/handler/JsonExceptionHandler.java

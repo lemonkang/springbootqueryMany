@@ -1,0 +1,6 @@
+com/oy/guli/oss/service/impl/FileServiceImpl.class
+com/oy/guli/oss/service/FileService.class
+com/oy/guli/oss/OssApplication.class
+com/oy/guli/oss/config/Swagger2Config.class
+com/oy/guli/oss/utils/ConstantPropertiesUtil.class
+com/oy/guli/oss/controller/FileController.class

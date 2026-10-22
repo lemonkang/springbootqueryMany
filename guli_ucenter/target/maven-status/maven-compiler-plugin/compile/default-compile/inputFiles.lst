@@ -1,0 +1,12 @@
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/UcenterApplication.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/config/Swagger2Config.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/controller/UcenterMemberController.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/controller/WxApiController.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/entity/UcenterMember.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/entity/vo/RegisterVo.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/handler/MyMetaObjectHandler.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/mapper/UcenterMemberMapper.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/service/UcenterMemberService.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/service/impl/UcenterMemberServiceImpl.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/utils/ConstantWxUtils.java
+/Users/Admin/guli/GuliEdu-main/guli_ucenter/src/main/java/com/oy/guli/educenter/utils/HttpClientUtils.java
